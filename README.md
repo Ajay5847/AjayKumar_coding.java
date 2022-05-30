@@ -1,8 +1,9 @@
 # AjayKumar_coding.java
 
-#Question : 1
+/*#Question : 1
 Leader of an array
-This is the pseudo code i have written.
+This is the pseudo code i have written.*/
+import java.util.*;
 
 class Solution{
     static ArrayList<Integer> leaders(int arr[], int n){
@@ -24,9 +25,9 @@ class Solution{
 }
   
   
-#Question : 1
+/*#Question : 1
 Best Time to Buy and Sell a Stock.
-This is the pseudo code i have written.
+This is the pseudo code i have written.*/
   
  class Solution {
     public int maxProfit(int[] prices) {
@@ -47,9 +48,9 @@ This is the pseudo code i have written.
 }
 
 
-#Question : 3 
+/*#Question : 3 
 SUM OF ALL SUBSET XOR TOTALS
-This is the pseudo code i have written.
+This is the pseudo code i have written.*/
 
 
 class Solution {
